@@ -276,7 +276,7 @@ export default {
       referencia:
         'CERpIE-UPC. (2017). El iceberg de las competencias: mostramos sólo el 15% de lo que somos. Prevención integral.',
       link:
-        'CERpIE-UPC. (2017). El iceberg de las competencias: mostramos sólo el 15% de lo que somos. Prevención integral',
+        'https://www.prevencionintegral.com/comunidad/blog/upcplus/2017/07/13/iceberg-competencias-mostramos-solo-15-que-somos',
     },
     {
       referencia:
@@ -286,8 +286,6 @@ export default {
     },
     {
       referencia: 'Confecciones Aburra Ltda. (s. f.). 1.6 Reseña histórica.',
-      link:
-        'https://sites.google.com/site/confeccionesaburra/home/-resena-historica',
     },
     {
       referencia:

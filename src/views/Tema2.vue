@@ -506,7 +506,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Pasos para sistema de evaluación de una capacitación 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='')                 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='La figura muestra un diagrama de los pasos de un sistema de evaluación. El primer paso consiste en establecer los criterios y definir las necesidades de capacitación de la empresa. El segundo paso es enumerar a los empleados que requieren capacitación y los cargos que desempeñan. Finalmente, el tercer paso es realizar un seguimiento del desempeño de los empleados y de las personas encargadas de la capacitación.')                 
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-4.my-3
