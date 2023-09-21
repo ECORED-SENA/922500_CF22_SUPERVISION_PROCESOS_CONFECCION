@@ -29,13 +29,13 @@
           .row.justify-content-center(titulo="Spencer y Spencer")
             .col-11
               p Este modelo se ha adaptado desde la definición dada por David McClelland, donde se trabaja la motivación humana en el desarrollo de las actividades  laborales y sociales.  Estos autores, para comprender un poco más este modelo, expusieron las competencias en forma de iceberg, donde se indica que las competencias en las personas tienen dos niveles: uno que es más visible y otro que es más difícil de identificar o sacar a flote.                                                 
-      .col-lg-5.my-3
+      .col-lg-5.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/97.png', alt='') 
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 6.
+      h5 Figura 4.
       span Modelo iceberg
-    img.img-a.img-t(src='@/assets/curso/temas/98.png', alt='Esta figura representa el modelo del iceberg, que utiliza una metáfora para explicar el modelo de competencias y describir lo que vemos y no vemos en una persona. Indica que solo mostramos el 15% de lo que somos, que incluye nuestras habilidades y conocimientos visibles. Mientras tanto, el 85% restante (rol social, autoimagen, rasgos, motivos) se mantiene oculto bajo la superficie, invisible para los demás. Es precisamente esta parte oculta en la que debemos centrarnos al identificar y evaluar una competencia.') 
+    img.img-a.img-t(src='@/assets/curso/temas/98.svg', alt='Esta figura representa el modelo del iceberg, que utiliza una metáfora para explicar el modelo de competencias y describir lo que vemos y no vemos en una persona. Indica que solo mostramos el 15% de lo que somos, que incluye nuestras habilidades y conocimientos visibles. Mientras tanto, el 85% restante (rol social, autoimagen, rasgos, motivos) se mantiene oculto bajo la superficie, invisible para los demás. Es precisamente esta parte oculta en la que debemos centrarnos al identificar y evaluar una competencia.') 
     .bg33.p-5.mb-3 
       p(data-aos="fade-down").mb-0 En los rasgos visibles, se habla de habilidades, destrezas y conocimientos de las personas que toman menos tiempo en identificar, es lo que se sabe y lo que se tiene capacidad de hacer; mientras lo que se encuentra por debajo es lo que está oculto, este lado está más relacionado con la personalidad de cada individuo y se hace más difícil de identificar y trabajar en él. Dentro de esto, se encuentra la red social, que hace referencia a esos círculos sociales que tienen influencia en el desarrollo de la personalidad de las personas, la autoimagen es cómo me veo y cómo me identifico como persona; los rasgos y los motivos hacen referencia a cómo se suelen hacer las cosas y el gusto por el cual deseo realizar las cosas.
     figcaption.mb-5 Nota. Tomada de Prevención Integral (2017).
@@ -74,7 +74,7 @@
             h4.mb-0 Competencias corporativas
 
     .row.justify-content-center.mb-4           
-      .col-lg-3.my-3
+      .col-lg-3.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/101.png', alt='')
       .col-lg-9.my-3
         .row.justify-content-center.align-items-start.bg6.mb-4          
@@ -143,11 +143,11 @@
             p.mb-0 Siguiendo con la definición que da Martha Alles (2009), una competencia específica son aquellos conocimientos, habilidades y destrezas mediante los cuales cada persona desempeña eficazmente actividades determinadas. Las competencias específicas están relacionadas con las funciones o el cargo a desempeñar dentro de la organización.  
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 7.
+      h5 Figura 5.
       span Estructura organizacional y competencias funcionales
     img.img-a.img-t(src='@/assets/curso/temas/105.svg', alt='Esta figura representa la estructura organizacional y las competencias funcionales de una organización. Comienza con el gerente general y continúa con el área administrativa y financiera, que tiene a su cargo la gestión del talento humano, la dirección financiera, las compras y la tesorería. También se encuentra el área de producción, que incluye el diseño, el corte, la costura, el empaque y el control de calidad. Por último, está el área de Comercio y Mercado, encargada de la publicidad y la mercadotecnia.') 
 
-    p(data-aos="fade-down").mb-5 Si se revisa, el cargo del gerente tiene unas funciones específicas y este debe tener unas competencias funcionales para la ejecución de dichas funciones, mientras que el jefe de producción debe contar con otras competencias específicas diferentes a la ejecución de su cargo, y si se revisa el director administrativo y financiero, por sus funciones, tendrá otras competencias específicas para desarrollar su cargo.
+    p(data-aos="fade-down").my-5 Si se revisa, el cargo del gerente tiene unas funciones específicas y este debe tener unas competencias funcionales para la ejecución de dichas funciones, mientras que el jefe de producción debe contar con otras competencias específicas diferentes a la ejecución de su cargo, y si se revisa el director administrativo y financiero, por sus funciones, tendrá otras competencias específicas para desarrollar su cargo.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10(data-aos="flip-down")
@@ -157,7 +157,7 @@
           .col
             p(data-aos="fade-down").mb-0.p-4 #[b ¿Se pueden repetir competencias en los cargos?] Hay competencias funcionales que son requeridas para varios cargos de la organización, pero estos deben tener definido su nivel mínimo de apropiación para cada uno de los cargos. 
 
-    p(data-aos="fade-down") A continuación, se definen algunas competencias de nivel gerencial, las cuales están estipuladas en el Diccionario de Competencias Laborales de Martha Alles. En esta obra, propone algunas competencias, pero se pueden adicionar diferentes a las planteadas. #[b Eso depende de lo construido por la alta gerencia de la empresa y el departamento de gestión humana:]
+    p(data-aos="fade-down").mb-5 A continuación, se definen algunas competencias de nivel gerencial, las cuales están estipuladas en el Diccionario de Competencias Laborales de Martha Alles. En esta obra, propone algunas competencias, pero se pueden adicionar diferentes a las planteadas. #[b Eso depende de lo construido por la alta gerencia de la empresa y el departamento de gestión humana:]
 
     h4.t1(data-aos="fade-down") Competencias específicas
 
@@ -165,7 +165,7 @@
 
     .bg39.mb-5
       .row.justify-content-center.align-items-end.pt-3           
-        .col-lg-3.my-3
+        .col-lg-3.my-3.d-none.d-lg-block
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/106.png', alt='')
         .col-lg-9
           .row.justify-content-center
@@ -187,7 +187,8 @@
                 h4.t1(data-aos="fade-down") Director de producción
                 p(data-aos="fade-down") #[b Capacidad de planificación y organización:] se debe tener la capacidad para determinar las prioridades en la ejecución de las actividades, de acuerdo con recursos, acciones, plazos para el logro de los objetivos; adicionalmente, debe tener la capacidad de definir estrategias o acciones de control y/o seguimiento. 
                 p(data-aos="fade-down") #[b Productividad:] es la capacidad que tiene la persona para fijar objetivos y cumplirlos exitosamente, de acuerdo con los tiempos estipulados y la calidad requerida para el crecimiento de la organización en el mercado. 
-                p(data-aos="fade-down").mb-0 #[b Gestión y logro de objetivos:] capacidad para orientar las acciones, actividades y equipo de trabajo al cumplimiento de las metas de la organización, realizando la planeación, generando acciones de control, al igual que mitigación del riesgo. Conducción de personas: es la capacidad que tiene una persona para dirigir y distribuir tareas de acuerdo con el rol que cada uno de los colaboradores tiene dentro de la organización.
+                p(data-aos="fade-down") #[b Gestión y logro de objetivos:] capacidad para orientar las acciones, actividades y equipo de trabajo al cumplimiento de las metas de la organización, realizando la planeación, generando acciones de control, al igual que mitigación del riesgo.  
+                p(data-aos="fade-down").mb-0 #[b Conducción de personas:] es la capacidad que tiene una persona para dirigir y distribuir tareas de acuerdo con el rol que cada uno de los colaboradores tiene dentro de la organización.
 
     .row.justify-content-center.align-items-start.mb-4     
       .col-lg-8.my-3.order-1
@@ -212,7 +213,7 @@
     p(data-aos="fade-down").mb-5 #[b.t1 Martha Alles (2009)] define las competencias de gestión actitudinales como componentes actitudinales de una persona demostrando su capacidad en la solución e interpretación para obtener resultados en forma rápida y eficiente, garantizando el éxito de su gestión desde el cargo desempeñado; exponiendo aquellas actitudes personales donde demuestra la eficiencia propia de un individuo. Estas competencias están relacionadas con la personalidad y los valores de las personas para asumir las diferentes situaciones que se presentan. Como en las competencias específicas, estas competencias están relacionadas con las funciones y características del cargo que desempeña, en este caso, se va a mirar las competencias actitudinales o de gestión de un cargo operativo y de un cargo directivo, para mayor comprensión. 
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 8.
+      h5 Figura 6.
       span Estructura organizacional y competencias actitudinales o de gestión
     img.img-a.img-t.mb-5(src='@/assets/curso/temas/109.svg', alt='Esta figura representa la estructura organizacional y las competencias actitudinales y de gestión en una empresa, especialmente en el área de costura. Se destaca el papel del área de compras y tesorería, así como del área de producción, ya que son fundamentales para el éxito de la empresa. Estas competencias no se limitan solo a habilidades técnicas, sino que también incluyen la actitud y la capacidad para gestionar eficazmente los recursos humanos y los proceso')    
 

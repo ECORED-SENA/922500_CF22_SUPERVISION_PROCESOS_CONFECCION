@@ -43,9 +43,7 @@
 
       p(data-aos="fade-down").mb-5 La inducción general a la organización proporciona información al trabajador sobre la empresa: misión, visión, objetivos, historia, estructura organizacional, beneficios socioeconómicos, normas de conducta interna, protocolo ético, reglamento interno de trabajo, etc. El área de gestión humana es la encargada de realizar esta inducción y deberá de garantizar y velar por el buen desarrollo de este.
 
-      .titulo-sexto.color-acento-contenido.mb-0
-        h5 Figura 4.
-        span Esquema de evolución de inducción
+      h4.text-center Esquema de evolución de inducción
 
       .row.justify-content-center.mb-4 
         .col-lg-3.col-md-6.my-3(data-aos="flip-down")
@@ -125,7 +123,7 @@
             p.mb-0 El objetivo principal que se tiene en la inducción al cargo es orientar frente a la información proporcionada en el grupo de trabajo, cuáles son sus deberes, derechos y qué temas debe tener en cuenta en el momento de iniciar las labores correspondientes a la compañía.              
     p(data-aos="fade-down") Asimismo, la inducción al puesto de trabajo prepara al nuevo trabajador para asumir los desafíos del cargo y las metas del proceso; en este sentido, el encargado de realizar esta inducción es el jefe inmediato, quien instruirá al nuevo trabajador en las condiciones del trabajo, tales como: horas de trabajo, entrada y salida a la empresa, días de pago y procedimiento para recibir el pago, horas de almuerzo, llamadas telefónicas, uso del correo institucional, asignación de materiales y equipos a su cargo, cumplimiento de las funciones, asistencia y puntualidad, uso de la información confidencial de la empresa, conducta, entre otras.
 
-    h4(data-aos="fade-down").mb-5 Las etapas de la inducción son las siguientes:      
+    h4(data-aos="fade-down").mt-5.text-center Las etapas de la inducción son las siguientes:      
 
     .row.justify-content-center.mb-4 
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
@@ -134,21 +132,21 @@
           .tarjeta.bg6.h-100
             .p-4.pt-0
               h4.t1 01
-              p Inducción general de las Políticas de la compañía     
+              p Inducción general de las Políticas de la compañía.     
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
         .tarjeta.tarjeta-avatar.h-100
           img.img-w1.avatar-l(src='@/assets/curso/temas/74.png' alt='')
           .tarjeta.bg6.h-100
             .p-4.pt-0
               h4.t1 02
-              p Inducción especifica sobre aspectos importantes del cargo
+              p Inducción especifica sobre aspectos importantes del cargo.
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
         .tarjeta.tarjeta-avatar.h-100
           img.img-w1.avatar-l(src='@/assets/curso/temas/75.png' alt='')
           .tarjeta.bg6.h-100
             .p-4.pt-0
               h4.t1 03
-              p Factores de riesgo que estará expuesto mientras permanece en la compañía manipulando equipos o maquinaria y los recorridos que debe ejecutar
+              p Factores de riesgo que estará expuesto mientras permanece en la compañía manipulando equipos o maquinaria y los recorridos que debe ejecutar.
 
     .row.justify-content-center.mb-5     
       .col-lg-10(data-aos="fade-down") 
@@ -201,7 +199,7 @@
       .col-lg-8.my-3.order-1
         p(data-aos="fade-down") La reinducción es una práctica de gestión humana que hace parte del plan de formación anual, esto permite mejorar las competencias técnicas y transversales de los trabajadores vinculados a la organización, buscando que los trabajadores se actualicen frente a los retos que impone la industria moderna, la apertura de mercados y la globalización, también permite la actualización de conocimientos y el reciclaje de otros frente a las nuevas tecnologías y las distintas formas de trabajo      
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 La inducción es importante en el desarrollo del empalme de una persona que llega nueva a la organización, así la persona tenga experiencia en cargos similares; es importante explicar cómo se desarrollan las actividades de gestión y de trazabilidad frente a las actividades diarias, bien sean operativas o administrativas; la información general de las normas de seguridad para tener en cuenta dentro de los puestos de trabajo, en caso de un accidente o una muerte por ejercer la actividad; qué gestión documental se brindaría a su familia y en beneficio propio; los días de pago, cuánto es el salario por el cargo desempeñado y si hay beneficios adicionales remunerados, bien sea por cumplimiento de objetivos o comisiones por ventas.   
+          p(data-aos="fade-down").mb-0 Para realizar el proceso de reinducción, el jefe y los gestores de talento humano deben considerar las evaluaciones de desempeño, la evaluación del puesto de trabajo, resultados de encuestas de clima y cultura organizacional, exámenes de conocimientos, marco estratégico de la empresa, modelo de operación por procesos, políticas de calidad, misión, visión, valores  descripciones de puestos, indicadores, niveles de competitividad de la empresa, entre otros,  como insumos que permitan orientar la reinducción, de modo que esta pueda tener fruto. Este programa de reinducción se debe desarrollar con todo el personal vinculado a la empresa y debe ser un proceso planeado y permanente, que asegure la productividad dentro de la empresa con todo su personal a cargo.   
 
 
         .bg12.p-4(data-aos="flip-down") 
@@ -216,9 +214,9 @@
     .row.justify-content-center 
       .col-lg-10(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5.
+          h5 Figura 3.
           span Formato evaluación de la inducción 
-        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/77.svg', alt='')                
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/77.svg', alt='En esta figura se presenta el formato de evaluación de la inducción, el cual incluye un espacio para la fecha. Se evalúan diferentes variables, entre las cuales se encuentran la presentación del jefe, el organigrama de trabajo, los objetivos expuestos, las especificaciones y funciones, entre otros. Cada una de estas variables se evalúa según si se realizó o no, utilizando unas escalas de logro, y se les asigna una calificación correspondiente.')                
         figcaption Nota. Tomada de Grados (2003).
 </template>
 

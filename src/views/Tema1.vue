@@ -69,10 +69,10 @@
                 h4 Mejora de la productividad mediante la capacitación 
                 p.mb-0 Existen acciones de formación y aprendizaje continuos de sus trabajadores, lo cual lleva a una tendencia de especialización y mejora en los detalles de la tarea a desarrollar.    
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-5
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='')
-      .col-lg-7
+      .col-lg-7.my-3
         p(data-aos="fade-down") En conclusión, se puede decir que los procesos de capacitación de forma planificada contribuyen al mejoramiento del desempeño de las labores de los trabajadores y asimismo de los procesos de la organización, impactando positivamente el crecimiento organizacional.
 
         p(data-aos="fade-down") En los procesos de confección, ayuda a que las personas busquen mejorar los métodos, la calidad del producto, su aptitud frente a los diferentes retos productivos. Si bien es cierto que la mayoría de los esfuerzos en este tema tienen que ver con capacitaciones dedicadas a mejorar las habilidades duras, también se dedica gran parte a mejorar las habilidades blandas, sobre todo en cargos medios y directivos, que pueden mejorar la productividad de equipos de trabajo.

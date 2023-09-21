@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Estructura de un modelo o proceso de capacitación  
-    p(data-aos="fade-down") El modelo de capacitación deberá tener como objetivo cumplir una función fundamental dentro de la empresa: formar de manera sistemática a los empleados. Por ende, este proceso debe ser planeado de manera que los empleados puedan capacitarse y adquirir mejores habilidades, conocimientos y aptitudes en sus puestos de trabajo.
+    p(data-aos="fade-down").mb-5 El modelo de capacitación deberá tener como objetivo cumplir una función fundamental dentro de la empresa: formar de manera sistemática a los empleados. Por ende, este proceso debe ser planeado de manera que los empleados puedan capacitarse y adquirir mejores habilidades, conocimientos y aptitudes en sus puestos de trabajo.
 
     h4.t1(data-aos="fade-down") Diagnóstico situacional de la organización
 
@@ -154,11 +154,11 @@
                   | Los operarios no cuentan con experiencia en manejo de máquinas especiales para la confección de ropa interior.
             tbody
               tr.bgt1
-                td #[b Oportunidades ]
+                td.brt1 #[b Oportunidades ]
                   br                  
                   br
                   | Existen innumerables mecanismos de capacitación gratuitos, como el Sena, que permiten tener alianzas con empresas para capacitar al personal.
-                td #[b Estrategias FO ]
+                td.brt1 #[b Estrategias FO ]
                   br                  
                   br
                   | Se describen estrategias donde se usa las fortalezas para aprovechar las oportunidades que se presentan. En este caso, un ejemplo podría ser:  
@@ -173,11 +173,11 @@
                   br
                   | “Capacitar a los operarios en procesos y manejo de máquinas especiales para producir prendas a través del Sena”.
               tr.bgt2
-                td #[b Amenazas ]
+                td.brt1 #[b Amenazas ]
                   br                  
                   br
                   | Los cambios en las tendencias del mercado y de la moda.
-                td #[b Estrategias FA ]
+                td.brt1 #[b Estrategias FA ]
                   br                  
                   br
                   | En este caso, se aprovechan las fortalezas para evitar o afrontar las amenazas del entorno externo; también conocidas como estrategias para defender. En este caso, se podría proponer: 
@@ -343,9 +343,7 @@
 
     p(data-aos="fade-down").pb-5 Una capacitación se debe planear anticipadamente, ya que tiene un alto grado de responsabilidad en las actividades a implementar, debe contar con una estructura y una secuencia de temas diseñados para proceder a impartir la capacitación.
 
-    .titulo-sexto.color-acento-contenido
-      h5 Figura 2.
-      span Desarrollo de la capacitación
+    h4.text-center Desarrollo de la capacitación
 
     .row.justify-content-center.text-center.mb-4(data-aos="fade-left")
       .col-lg-4.col-md-6.my-3
@@ -506,7 +504,7 @@
     .row.justify-content-center.mb-5     
       .col-lg-10(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
+          h5 Figura 2.
           span Pasos para sistema de evaluación de una capacitación 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='')                 
 
@@ -517,9 +515,9 @@
         .bg6.p-4(data-aos="fade-down")
           p Es importante que los líderes de las compañías velen por promover herramientas de desempeño que aporten a la empresa en la consecución de los objetivos empresariales. A partir de sistemas de evaluación de desempeño pertinentes, se conocen las necesidades, donde muestran el impacto de integrar conocimientos de desempeño.
 
-          h4 Los resultados obtenidos pueden utilizarse con distintos objetivos:
     .bg18
-      .row.justify-content-center.mb-4          
+      .row.justify-content-center.mb-4
+        h4.text-center Los resultados obtenidos pueden utilizarse con distintos objetivos:
         .col-lg-4.my-3
           .bg11.h-100.brad.p-4(data-aos="zoom-in")
             img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/38.svg', alt='')
@@ -537,12 +535,6 @@
 
       .tarjeta.tarjeta--gris.p-4
         PasosB.color-acento-botones
-          .row.justify-content-center.align-items-center(titulo="")
-            .col-8.my-3.order-1
-              h4.t1 Informe de evaluación
-              p.mb-0 Consiste en desarrollar un informe de cada uno de los participantes; este informe se desarrolla teniendo en cuenta los factores cualitativos y cuantitativos, donde se entrega la equivalencia del nivel de puntuación de cada una de las personas que se encuentra en el proceso, señalando los casos y criterios utilizados en la toma del resultado evaluativo. 
-            .col-lg-auto.my-3.order-lg-2
-              img.img-a.img-t(src='@/assets/curso/temas/42.png', alt='')
           .row.justify-content-center.align-items-center(titulo="")
             .col-8.my-3.order-1
               h4.t1 Definición de objetivos
@@ -583,7 +575,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0.ts
-                    p.mb-0 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado La evaluación de competencias en las páginas 11, 13 y 19
+                    p.mb-0 Para ampliar su conocimiento, observe los ejemplos expuestos en el documento anexo denominado "La evaluación de competencias" en las páginas 11, 13 y 19.
                   .col-sm-auto
                     a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1_La_evaluacion_de_competencias.pdf')" target="_blank")
                       span Descargar

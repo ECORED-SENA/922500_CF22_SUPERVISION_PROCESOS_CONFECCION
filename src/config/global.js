@@ -130,41 +130,40 @@ export default {
     {
       tema: 'Estructura de un modelo o proceso de capacitación  ',
       referencia:
-        'Pereda, M. y  Berrocal, F. (s. f.). <i>La evaluación de competencias</i>.',
+        'Pereda, M. y  Berrocal, F. (s. f.). La evaluación de competencias.',
       tipo: 'PDF',
       descarga: '/downloads/Anexo1_La_evaluacion_de_competencias.pdf',
     },
     {
       tema: 'Proceso administrativo',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Planeación estratégica</i> [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Planeación estratégica.',
       tipo: 'Video',
       link: 'https://youtu.be/1yAOUdaaYxc',
     },
     {
       tema: 'Proceso administrativo',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Análisis de la situación del entorno</i> [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Análisis de la situación del entorno.',
       tipo: 'Video',
       link: 'https://youtu.be/2L03LI44M0Q',
     },
     {
       tema: 'Proceso organizacional',
       referencia:
-        'U-Lux. (2021). <i>Estructura organizacional ¿Qué es? ¿Para qué sirve?</i> [Video]. YouTube.',
+        'U-Lux. (2021). Estructura organizacional ¿Qué es? ¿Para qué sirve?.',
       tipo: 'Video',
       link: 'https://youtu.be/m3ktM653Xrc',
     },
     {
       tema: 'Proceso organizacional',
-      referencia:
-        'Growp. (2017). <i>La estructura organizacional</i> [Video]. YouTube.',
+      referencia: 'Growp. (2017). La estructura organizacional.',
       tipo: 'Video',
       link: 'https://youtu.be/NpsflJIWNIg',
     },
     {
       tema: 'Competencias laborales',
-      referencia: 'SENA. (2020). <i>Observatorio Laboral</i>.',
+      referencia: 'SENA. (2020). Observatorio Laboral.',
       tipo: 'Página Web',
       link: 'https://observatorio.sena.edu.co/Clasificacion/Cno',
     },
@@ -349,7 +348,7 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable de Línea de Producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -359,61 +358,61 @@ export default {
         {
           nombre: 'Ericka Alexandra Blanco Sánchez',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, confección y moda',
+          centro: 'Diseño, confección y moda - Regional Antioquía',
         },
         {
           nombre: 'Jenny Patricia Torres',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, confección y moda',
+          centro: 'Diseño, confección y moda - Regional Antioquía',
         },
         {
           nombre: 'Adriana María Giraldo Herrera',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, confección y moda',
+          centro: 'Diseño, confección y moda - Regional Antioquía',
         },
         {
           nombre: 'Witer Calle Valencia',
           cargo: 'Instructora Red Gestión Administrativa',
           centro:
-            'Sena Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+            'Centro de Formación en Diseño, Confección y Moda - Sena Regional Antioquia',
         },
         {
           nombre: 'Jenny Patricia Torres',
           cargo: 'Instructora Red Gestión Administrativa',
           centro:
-            'Sena Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+            'Centro de Formación en Diseño, Confección y Moda - Sena Regional Antioquia',
         },
         {
           nombre: 'Ericka Alexandra Blanco Sánchez',
           cargo: 'Instructora Red Gestión Administrativa',
           centro:
-            'Sena Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
+            'Centro de Formación en Diseño, Confección y Moda - Sena Regional Antioquia',
         },
         {
           nombre: 'Vilma Perilla',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital- Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisora Metodológica y Pedagógica',
-          centro: 'Regional Distrito Capital- Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Metodóloga para la formación virtual',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Darío González',
           cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
           cargo: 'Diseñadora Instruccional',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -424,25 +423,31 @@ export default {
           nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Edward Leonardo Pico Cabra',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Actividad Didáctica',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -453,19 +458,19 @@ export default {
           nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },

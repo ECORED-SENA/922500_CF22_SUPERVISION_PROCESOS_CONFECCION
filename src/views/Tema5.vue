@@ -12,22 +12,22 @@
         .bg26.p-0.h-100
           img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/78.png', alt='')
           .p-4
-            p.mb-0(data-aos="fade-down") Comprende los procesos de transformación de las fibras en hilos.
+            p.mb-0(data-aos="fade-down") Coordinación de esfuerzos, donde formula normativas y reglamentos para la organización.
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
         .bg26.p-0.h-100
           img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/79.png', alt='')
           .p-4
-            p.mb-0(data-aos="fade-down") Son las operaciones necesarias para la elaboración de tejidos partiendo del hilo.
+            p.mb-0(data-aos="fade-down") Objetivo común, que simplifica las actividades a desarrollar para cumplir las actividades propuestas de manera ordenada.
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
         .bg26.p-0.h-100
           img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/80.png', alt='')
           .p-4
-            p.mb-0(data-aos="fade-down") Engloba las operaciones físicas, químicas y mecánicas, cuyo objeto brindan cambios en las características físicas de los tejidos (por ejemplo, color, textura, densidad, dureza, ancho, etc.).
+            p.mb-0(data-aos="fade-down") División de trabajo, que se refleja en una programación de actividades independientes, pero que deben trabajar en sinergia, unidas por un mismo objetivo.
       .col-lg-3.col-md-6.my-3(data-aos="flip-down")
         .bg26.p-0.h-100
           img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/81.png', alt='')
           .p-4
-            p.mb-0(data-aos="fade-down") Se realiza la configuración del producto textil dirigido al consumidor final.
+            p.mb-0(data-aos="fade-down") Jerarquía de autoridad o cadena de órdenes, de acuerdo con el grupo de necesidades del objetivo a cumplir.
 
     .row.justify-content-start.mb-4
       .col-auto.bg2.p-0.pe-4(data-aos="flip-down")
@@ -72,7 +72,7 @@
 
     p(data-aos="fade-down") Cada empresa funciona de manera diferente -así fabriquen o presten servicios parecidos-, cada compañía adopta un actuar diferente para alcanzar sus objetivos y proyectar sus metas; por lo cual, la forma de operar y planear sus actividades define los puestos y las responsabilidades que tienen las personas de la organización.
 
-    h4(data-aos="fade-down").mb-5 Los tipos de estructuras organizacionales se evidencian de dos maneras:
+    h4(data-aos="fade-down").mt-5.text-center Los tipos de estructuras organizacionales se evidencian de dos maneras:
     .bg28
       .row.justify-content-center.mb-4          
         .col-lg-4.my-3
@@ -86,7 +86,7 @@
           .bg12.h-100.brad.p-4(data-aos="zoom-in")
             img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/83.png', alt='')
             h4.text-center(data-aos="fade-down") Estructura burocrática:
-            p.mb-0(data-aos="fade-down") corresponde a compañías que ya están estructuradas por sus elementos de gestión del trabajo, basados en autoridad, responsabilidades, tareas y procedimientos; están formalizadas mediante una estructura rígida, bajo los lineamientos de reglas y normas en pro del cumplimiento de los métodos de trabajo a desarrollar que culminen las metas proyectadas con éxito
+            p.mb-0(data-aos="fade-down") corresponde a compañías que ya están estructuradas por sus elementos de gestión del trabajo, basados en autoridad, responsabilidades, tareas y procedimientos; están formalizadas mediante una estructura rígida, bajo los lineamientos de reglas y normas en pro del cumplimiento de los métodos de trabajo a desarrollar que culminen las metas proyectadas con éxito.
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10
@@ -121,7 +121,7 @@
         .col-lg-8.my-3(data-aos="fade-right")
           p(data-aos="fade-down") Las funciones en las empresas contribuyen al buen funcionamiento de la organización, se definen en las actividades a ejecutar y cómo se relacionan entre sí, donde las funciones comerciales satisfacen las necesidades entre mercado, demanda y realidad de la empresa, respondiendo con los productos a fabricar según la capacidad de respuesta. Cada tipo de trabajo tiene unas fases de procesos operativos dentro de una cadena de trabajo, desde los suministros de materias primas, la fabricación, hasta distribución-ventas.
           .bg30.p-4
-            p(data-aos="fade-down").mb-0 El término de función es abstracto, pero tiene que coincidir con las políticas de la empresa, por ejemplo, que todas las empresas tienen una representación pública frente a sus productos; pero no es solo el departamento de relaciones corporativas, sino también a nivel general, al que pertenece todo el personal de la organización
+            p(data-aos="fade-down").mb-0 El término de función es abstracto, pero tiene que coincidir con las políticas de la empresa, por ejemplo, que todas las empresas tienen una representación pública frente a sus productos; pero no es solo el departamento de relaciones corporativas, sino también a nivel general, al que pertenece todo el personal de la organización.
     h4(data-aos="fade-down").mb-5 Existe la clasificación de las funciones organizacionales:
     .bg32
       .row.justify-content-center.align-items-center.mb-5.pt-3           
@@ -134,7 +134,7 @@
               .row.justify-content-center
                 .col-md-7.mb-4.mb-md-0
                   h4.t1 Formalización
-                  p Es una estructura donde existen varias personas encargadas de llevar funciones explicitas en el cumplimiento de planes de trabajo para el desempeño de metas especificas y precisas             
+                  p Es una estructura donde existen varias personas encargadas de llevar funciones explicitas en el cumplimiento de planes de trabajo para el desempeño de metas especificas y precisas.             
                 .col-md-5
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/88.png', alt='') 
 
@@ -173,14 +173,14 @@
             img.img-w(src='@/assets/curso/temas/93.svg' alt='')
             .tarjeta.bg31.ts.h-100
               .p-4
-                h4 Estrategia empresarial
+                h4 Procesos de negocio
                 p.mb-0 Son procesos encajados e integrados que funcionan de manera articulada, prestando un ágil proceso de fabricación respondiendo a las garantías de las politicas de valor de la empresa los clientes.
         .col-lg-4.col-md-6.my-3(data-aos="flip-down")
           .tarjeta.tarjeta-avatar.h-100
             img.img-w(src='@/assets/curso/temas/94.svg' alt='')
             .tarjeta.bg31.ts.h-100
               .p-4
-                h4 Estrategia empresarial
+                h4 Cultura organizacional
                 p.mb-0 Es el conjunto de características donde se estructuran de manera organizada unos hábitos de las personas que se integran a la compañía. El termino de mejora continua enfatiza que es posible realizar cambios en pro de mejorar hábitos de trabajo, mejorando el control del personal que labora en la organización.                                                           
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10

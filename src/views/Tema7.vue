@@ -139,7 +139,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.ts
-                  h5.mb-0 Para ampliar los conocimientos sobre la Clasificación Nacional de Ocupaciones, consulte el siguiente material descargable.
+                  h4 Clasificación Nacional de Ocupaciones
+                  p.mb-0 Para ampliar los conocimientos sobre la Clasificación Nacional de Ocupaciones, consulte el siguiente material descargable.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://observatorio.sena.edu.co/Content/pdf/cno_version_2020.pdf" target="_blank")
                     span Descargar
@@ -157,8 +158,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.ts
-                  h4.mb-0 Manuel de Funciones
-                  h5.mb-0 Ingresa el documento Manual de funciones en este documento, se dará un esbozo de la información mínima que debe contener el manual de funciones.
+                  h4 Manuel de Funciones
+                  p.mb-0 Ingresa el documento Manual de funciones en este documento, se dará un esbozo de la información mínima que debe contener el manual de funciones.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_manual_de_funciones.pdf')" target="_blank")
                     span Descargar 
@@ -176,9 +177,9 @@
       .col-lg-8.my-3(data-aos="fade-right")
         p(data-aos="fade-down") En este espacio, se inicia una descripción de cada uno de los cargos estipulados en el organigrama, con sus requerimientos de formación, experiencia, competencias específicas, competencias actitudinales, riesgos laborales que exige el cargo que se está diseñando. Antes de realizar la descripción de los cargos, es bueno realizar una breve introducción, donde indique el número de cargos existentes, cuantas áreas funcionales hay, que se hable sobre el tema de las competencias corporativas y demás aspectos relevantes; con el fin de que el nuevo empleado comprenda y tome conciencia de su posición e importancia dentro de la organización.
 
-        h4(data-aos="fade-down").mb-4 En este aspecto, se irán desglosando aspectos como:
+        p(data-aos="fade-down").mb-4 En este aspecto, se irán desglosando aspectos como:
         .bg8.p-4
-          h4(data-aos="fade-down").t1 Identificación del cargo:
+          h4(data-aos="fade-down").t1 Identificación del cargo
           p(data-aos="fade-down").mb-0 La identificación del cargo es donde se evidencia el nombre del cargo, el departamento al que pertenece dentro del organigrama y la jerarquía. En el siguiente video se profundiza en cada uno de ellos:
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/126.png', alt='')  
@@ -187,7 +188,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/0IzhfQ24pkM?si=iC8S4svHEH6Tz5MP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        figcaption Video. Identificación cargo
 
     .bg8.p-4.mb-5
       h4(data-aos="fade-down").t1 Propósito principal del cargo
@@ -200,7 +202,7 @@
             .col-lg-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/127.svg', alt='')
             .col-10.my-3
-              h5(data-aos="fade-down") Ejemplo:
+              h5(data-aos="fade-down") Ejemplo
               p(data-aos="fade-down") Para el cargo de cocinero, la función principal, de acuerdo con el observatorio laboral, puede ser:      
               ul.lista-ul.fa-ul                
                 li 

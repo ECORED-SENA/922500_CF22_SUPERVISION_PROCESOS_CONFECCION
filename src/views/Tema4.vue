@@ -86,7 +86,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/54.png', alt='') 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.my-3
+      .col-lg-4.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/55.png', alt='')                 
       .col-lg-8.my-3(data-aos="fade-left")
         .bloque-texto-c.color-secundario.p-4
@@ -103,11 +103,22 @@
             img.img-w(src='@/assets/curso/temas/57.svg' alt='')
             .tarjeta.bg21.ts.h-100
               .p-4.px-5
-                p ¿Cuál es el negocio?
-                p ¿Cuáles son las características del entorno y su competencia?
-                p ¿A dónde se quiere llegar?
-                p ¿Cómo llegar?
-                p.mb-0 ¿Cómo medir que se estén logrando los objetivos?      
+                ul.lista-ul.mb-0.fa-ul
+                  li 
+                    i.lista-ul__vineta
+                    h5.mb-0 ¿Cuál es el negocio?
+                  li 
+                    i.lista-ul__vineta                    
+                    h5.mb-0 ¿Cuáles son las características del entorno y su competencia?
+                  li 
+                    i.lista-ul__vineta                    
+                    h5.mb-0 ¿A dónde se quiere llegar?
+                  li 
+                    i.lista-ul__vineta                    
+                    h5.mb-0 ¿Cómo llegar?
+                  li 
+                    i.lista-ul__vineta                    
+                    h5.mb-0 ¿Cómo medir que se estén logrando los objetivos?      
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10
@@ -164,7 +175,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/s5tH26pRQTo?si=-oJhDKTZttb-VYgu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+        figcaption Video. Reseña histórica de FIBRANDINA SAS
 
     .bg22
       .row.justify-content-center.align-items-center.mb-5.py-3           
@@ -180,12 +192,22 @@
             .col-lg-6.my-3        
               .bgw.p-4.h-100
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/60.png', alt='')
-
-          p(data-aos="fade-down") ¿Qué sería lo más importante que le pediría a la empresa por un determinado producto o servicio si usted fuera el cliente externo?
-          p(data-aos="fade-down") ¿Cuál es el valor más importante que esta empresa debe tener para ofrecer el producto o servicio?
-          p(data-aos="fade-down") ¿Con qué principios debe comprometerse la organización con el Estado?
-          p(data-aos="fade-down") Como cliente interno, ¿con qué quisiera que la empresa cumpliera para generar satisfacción hacia los empleados?
-          p(data-aos="fade-down") ¿Qué valores debe cumplir la organización para con la sociedad?
+          ul.lista-ul.mb-5.fa-ul
+            li 
+              i.lista-ul__vineta
+              p.mb-0 ¿Qué sería lo más importante que le pediría a la empresa por un determinado producto o servicio si usted fuera el cliente externo?
+            li 
+              i.lista-ul__vineta
+              p.mb-0 ¿Cuál es el valor más importante que esta empresa debe tener para ofrecer el producto o servicio?
+            li 
+              i.lista-ul__vineta
+              p.mb-0 ¿Con qué principios debe comprometerse la organización con el Estado?
+            li 
+              i.lista-ul__vineta
+              p.mb-0 Como cliente interno, ¿con qué quisiera que la empresa cumpliera para generar satisfacción hacia los empleados?
+            li 
+              i.lista-ul__vineta
+              p.mb-0 ¿Qué valores debe cumplir la organización para con la sociedad?
 
       
         .col-lg-8
@@ -220,15 +242,24 @@
           .tarjeta.bg21.ts.h-100
             .p-4.px-5
               h4 Para poder definirla, es importante responder a cuestionamientos como: 
-              .row.justify-content-center.align-items-center          
-                .col-lg-auto.my-3
-                  img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.svg', alt='')
-                .col.my-3
-                  p ¿Quiénes somos? 
-                  p ¿Cómo nos definimos? 
-                  p ¿Cómo lo hacemos? 
-                  p ¿Con qué lo hacemos? 
-                  p ¿Para qué lo hacemos? 
+              ul.lista-ul.mb-0.fa-ul
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿Quiénes somos?
+                li 
+                  i.lista-ul__vineta                     
+                  p.mb-0 ¿Cómo nos definimos?
+                li 
+                  i.lista-ul__vineta                     
+                  p.mb-0 ¿Cómo lo hacemos?
+                li 
+                  i.lista-ul__vineta                     
+                  p.mb-0 ¿Con qué lo hacemos?
+                li 
+                  i.lista-ul__vineta                     
+                  p.mb-0 ¿Para qué lo hacemos?
+                li 
+                  i.lista-ul__vineta                     
                   p.mb-0 ¿Quiénes son nuestros clientes?                                      
       .col-lg-7.col-md-6.my-3(data-aos="fade-right")
         .tarjeta.tarjeta-avatar.h-100
@@ -267,7 +298,7 @@
 
       .col-lg-8.p-0
         .bg23.p-4.j.h-100
-          p(data-aos="fade-down").mb-0 Después de elaborar la misión, es necesario definir el para dónde se va, por lo tanto, se procede a realizar la visión. Para realizarla, inicialmente se revisarán algunas definiciones aportadas por expertos como Serna (2008, p.59), quien formula que “la visión corresponde a los sueños, lo que queremos lograr gracias a nuestro esfuerzo o tal vez por lo que queremos ser reconocidos por los demás en el largo plazo”; de la misma forma, Suárez y Altahona (2009, p.14) la definen como “un conjunto de ideas que proveen el marco o referencia de los que una empresa o negocio quiere visualizar a futuro”. Por tanto, estas definiciones nos llevan a concluir que la visión debe responder claramente a la pregunta: ¿a dónde se quiere llegar?
+          p(data-aos="fade-down").mb-0 Después de elaborar la misión, es necesario definir el para dónde se va, por lo tanto, se procede a realizar la visión. Para realizarla, inicialmente se revisarán algunas definiciones aportadas por expertos como Serna (2008, p.59), quien formula que “la visión corresponde a los sueños, lo que queremos lograr gracias a nuestro esfuerzo o tal vez por lo que queremos ser reconocidos por los demás en el largo plazo”; de la misma forma, Suárez y Altahona (2009, p.14) la definen como “un conjunto de ideas que proveen el marco o referencia de los que una empresa o negocio quiere visualizar a futuro”. Por tanto, estas definiciones nos llevan a concluir que la visión debe responder claramente a la pregunta: ¿A dónde se quiere llegar?
 
     .row.justify-content-center.mb-4 
       .col-lg-5.col-md-6.my-3(data-aos="fade-left")
@@ -276,11 +307,22 @@
           .tarjeta.bg21.ts.h-100
             .p-4.px-5
               h4 Para su construcción, es necesario responder:
-              p ¿Cómo se sueña la organización en 5 o 10 años? 
-              p ¿A dónde quiere llegar la empresa? 
-              p ¿Qué papel debe estar cumpliendo en su medio? 
-              p ¿En qué quiere convertirse?  
-              p.mb-0 ¿Qué características debe tener como empresa en el futuro?iénes son nuestros clientes?                                      
+              ul.lista-ul.mb-0.fa-ul
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿Cómo se sueña la organización en 5 o 10 años? 
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿A dónde quiere llegar la empresa? 
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿Qué papel debe estar cumpliendo en su medio? 
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿En qué quiere convertirse?  
+                li 
+                  i.lista-ul__vineta
+                  p.mb-0 ¿Qué características debe tener como empresa en el futuro?iénes son nuestros clientes?                                      
       .col-lg-7.col-md-6.my-3(data-aos="fade-right")
         .tarjeta.tarjeta-avatar.h-100
           img.img-w(src='@/assets/curso/temas/65.svg' alt='')
