@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p(data-aos="fade-down").mb-5 Bienvenido al componente formativo #[b.t1 Capacitación del personal y perfil técnico], que brinda opciones para preparar al personal para desempeñarse en los cargos asignados. Para conocer más visualice el siguiente video:
+    p(data-aos="fade-down").mb-5 Bienvenido al componente formativo #[b.t1 Capacitación del personal y perfil técnico], que brinda opciones para preparar al personal para desempeñarse en los cargos asignados. Para conocer más, visualice el siguiente video:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure

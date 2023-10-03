@@ -134,7 +134,7 @@
               .row.justify-content-center
                 .col-md-7.mb-4.mb-md-0
                   h4.t1 Formalización
-                  p Es una estructura donde existen varias personas encargadas de llevar funciones explicitas en el cumplimiento de planes de trabajo para el desempeño de metas especificas y precisas.             
+                  p Es una estructura donde existen varias personas encargadas de llevar funciones explícitas en el cumplimiento de planes de trabajo para el desempeño de metas específicas y precisas.             
                 .col-md-5
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/88.png', alt='') 
 
@@ -155,7 +155,7 @@
               .row.justify-content-center
                 .col-md-7.mb-4.mb-md-0
                   h4.t1 Difusión de ejecución 
-                  p Alli se atribuye gran parte del proceso de ejecución al personal que se encuentra en los mandos medios y al personal operativo de cada uno de los departamentos que realizan tareas de manera directa en el proceso de productos.             
+                  p Allí se atribuye gran parte del proceso de ejecución al personal que se encuentra en los mandos medios y al personal operativo de cada uno de los departamentos que realizan tareas de manera directa en el proceso de productos.             
                 .col-md-5
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/91.png', alt='')                                                              
           p(data-aos="fade-down").mt-5.pt-4 Las variables determinantes de la estructura organizacional óptima son aquellas que distribuyen de manera adecuada una estrategia dentro de los procesos de la compañía, y se plantean en tres pilares importantes entre estrategia, procesos y cultura organizacional. De esta manera, la búsqueda de una estructura adecuada entra en proceso de solventar de manera articulada los tres pilares anteriormente mencionados, los cuales deben funcionar con un alto nivel de coherencia. 
@@ -167,21 +167,21 @@
             .tarjeta.bg31.ts.h-100
               .p-4
                 h4 Estrategia empresarial
-                p.mb-0 Enmarca la importancia de lasmprioridades empresariales de la organización por medio de una lógica estructural, donde el propósito principal es potencializar el canal distribución, mejorando los tiempos fe entrega a los clientes. 
+                p.mb-0 Enmarca la importancia de las prioridades empresariales de la organización por medio de una lógica estructural, donde el propósito principal es potencializar el canal distribución, mejorando los tiempos fe entrega a los clientes. 
         .col-lg-4.col-md-6.my-3(data-aos="flip-down")
           .tarjeta.tarjeta-avatar.h-100
             img.img-w(src='@/assets/curso/temas/93.svg' alt='')
             .tarjeta.bg31.ts.h-100
               .p-4
                 h4 Procesos de negocio
-                p.mb-0 Son procesos encajados e integrados que funcionan de manera articulada, prestando un ágil proceso de fabricación respondiendo a las garantías de las politicas de valor de la empresa los clientes.
+                p.mb-0 Son procesos encajados e integrados que funcionan de manera articulada, prestando un ágil proceso de fabricación, respondiendo a las garantías de las políticas de valor de la empresa, los clientes.
         .col-lg-4.col-md-6.my-3(data-aos="flip-down")
           .tarjeta.tarjeta-avatar.h-100
             img.img-w(src='@/assets/curso/temas/94.svg' alt='')
             .tarjeta.bg31.ts.h-100
               .p-4
                 h4 Cultura organizacional
-                p.mb-0 Es el conjunto de características donde se estructuran de manera organizada unos hábitos de las personas que se integran a la compañía. El termino de mejora continua enfatiza que es posible realizar cambios en pro de mejorar hábitos de trabajo, mejorando el control del personal que labora en la organización.                                                           
+                p.mb-0 Es el conjunto de características donde se estructuran de manera organizada unos hábitos de las personas que se integran a la compañía. El término de mejora continua enfatiza que es posible realizar cambios en pro de mejorar hábitos de trabajo, mejorando el control del personal que labora en la organización.                                                           
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10
         .tarjeta.color-secundario.p-3.mb-5

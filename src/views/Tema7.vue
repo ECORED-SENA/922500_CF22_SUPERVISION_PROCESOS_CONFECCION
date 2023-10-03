@@ -210,7 +210,7 @@
                   p.mb-0 Preparar y cocinar alimentos, en estricto cumplimiento de la normatividad vigente. Preparar y cocinar alimentos, de acuerdo con las órdenes de producción.
                 li 
                   i.lista-ul__vineta
-                  p.mb-0 PPreparar y cocinar alimentos, cumpliendo con los criterios de calidad y contribuir así al cumplimiento de los objetivos estratégicos de la empresa.           
+                  p.mb-0 Preparar y cocinar alimentos, cumpliendo con los criterios de calidad y contribuir así al cumplimiento de los objetivos estratégicos de la empresa.           
 
     .bg42
       .row.justify-content-center.align-items-center.mb-5.pt-3           

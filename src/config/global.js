@@ -222,7 +222,7 @@ export default {
     {
       termino: 'Función',
       significado:
-        'es un conjunto de tareas o de obligaciones ejercidas de manera sistemática o reiterada por el ocupante de un puesto. para que un conjunto de obligaciones constituya una función es necesario que haya reiteración en su desempeño.',
+        'es un conjunto de tareas o de obligaciones ejercidas de manera sistemática o reiterada por el ocupante de un puesto. Para que un conjunto de obligaciones constituya una función es necesario que haya reiteración en su desempeño.',
     },
     {
       termino: 'Inducción',
@@ -315,7 +315,8 @@ export default {
     {
       referencia:
         'Serna, H. (2008). Gerencia estratégica. Planeación y gestión, teoría y metodología. 3R Editores.',
-      link: 'http://hdl.handle.net/1992/46578',
+      link:
+        'https://www.academia.edu/12171098/Libro_gerencia_estrategica_humberto_serna_gomez_140615221927_phpapp01',
     },
     {
       referencia:

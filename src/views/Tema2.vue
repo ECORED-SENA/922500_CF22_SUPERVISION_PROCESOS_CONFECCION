@@ -100,7 +100,7 @@
       .col-lg-9.my-3
         .bg8.p-4.h-100(data-aos="flip-down")
           h4(data-aos="fade-down") Los pasos para realizar este diagnóstico son:
-          ol.lista-ol.fa-ul
+          ol.lista-ol.fa-ul.mb-0
             li 
               span.text-bold 1. 
               p.mb-0 Describa todas las debilidades internas claves de la empresa referentes a necesidades de capacitación.
@@ -115,21 +115,18 @@
               p.mb-0 Detalla todas las amenazas externas claves de la empresa referentes a necesidades de capacitación.
             li 
               span.text-bold 5. 
-              p.mb-0 Describa todas las debilidades internas claves de la empresa referentes a necesidades de capacitación.
-            li 
-              span.text-bold 6. 
               p.mb-0 Analizar las fortalezas internas y oportunidades externas y trazar estrategias FO.
             li 
-              span.text-bold 7. 
+              span.text-bold 6. 
               p.mb-0 Analizar las debilidades internas y las oportunidades externas y trazar estrategias DO.
             li 
-              span.text-bold 8. 
+              span.text-bold 7. 
               p.mb-0 Analizar las fortalezas internas y las amenazas externas y trazar las estrategias FA.
             li 
-              span.text-bold 9. 
+              span.text-bold 8. 
               p.mb-0 Analizar las debilidades internas y las amenazas externas y trazar las estrategias DA.
             li.mb-0 
-              span.text-bold 10. 
+              span.text-bold 9. 
               p.mb-0 Una vez trazadas todas las estrategias, es hora de ponerlas en práctica y desarrollarlas.            
 
     h4(data-aos="fade-down").mb-5 Al terminar el análisis DOFA, se procede a realizar el listado de estrategias resultantes, así:
@@ -317,7 +314,7 @@
                 td Reduciendo la burocracia en mi equipo.
               tr
                 td(rowspan='2') Acepta sus errores y los convierte en lecciones aprendidas para mejorar.
-                td La luz en el Postmortem.
+                td La luz en el #[i Postmortem].
               tr
                 td Mis errores me dan futuras soluciones.
               tr

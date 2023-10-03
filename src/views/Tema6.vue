@@ -28,13 +28,13 @@
               p Profesor de la Universidad de Harvard, quien, en los años setenta, siendo uno de los pioneros en el modelo de gestión por competencias en el mundo, escribió sobre el concepto de competencia definiéndolo como: “características en una persona que están relacionadas con los comportamientos y la acción exitosa en su actividad profesional”.  Se entiende subyacente, como algo muy intrínseco de la personalidad humana, y se puede predecir el comportamiento en las diferentes situaciones sociales o laborales.
           .row.justify-content-center(titulo="Spencer y Spencer")
             .col-11
-              p Este modelo se ha adaptado desde la definición dada por David McClelland, donde se trabaja la motivación humana en el desarrollo de las actividades  laborales y sociales.  Estos autores, para comprender un poco más este modelo, expusieron las competencias en forma de iceberg, donde se indica que las competencias en las personas tienen dos niveles: uno que es más visible y otro que es más difícil de identificar o sacar a flote.                                                 
+              p Este modelo se ha adaptado desde la definición dada por David McClelland, donde se trabaja la motivación humana en el desarrollo de las actividades  laborales y sociales.  Estos autores, para comprender un poco más este modelo, expusieron las competencias en forma de #[i iceberg], donde se indica que las competencias en las personas tienen dos niveles: uno que es más visible y otro que es más difícil de identificar o sacar a flote.                                                 
       .col-lg-5.my-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/97.png', alt='') 
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 4.
-      span Modelo iceberg
+      span Modelo #[i iceberg]
     img.img-a.img-t(src='@/assets/curso/temas/98.svg', alt='Esta figura representa el modelo del iceberg, que utiliza una metáfora para explicar el modelo de competencias y describir lo que vemos y no vemos en una persona. Indica que solo mostramos el 15% de lo que somos, que incluye nuestras habilidades y conocimientos visibles. Mientras tanto, el 85% restante (rol social, autoimagen, rasgos, motivos) se mantiene oculto bajo la superficie, invisible para los demás. Es precisamente esta parte oculta en la que debemos centrarnos al identificar y evaluar una competencia.') 
     .bg33.p-5.mb-3 
       p(data-aos="fade-down").mb-0 En los rasgos visibles, se habla de habilidades, destrezas y conocimientos de las personas que toman menos tiempo en identificar, es lo que se sabe y lo que se tiene capacidad de hacer; mientras lo que se encuentra por debajo es lo que está oculto, este lado está más relacionado con la personalidad de cada individuo y se hace más difícil de identificar y trabajar en él. Dentro de esto, se encuentra la red social, que hace referencia a esos círculos sociales que tienen influencia en el desarrollo de la personalidad de las personas, la autoimagen es cómo me veo y cómo me identifico como persona; los rasgos y los motivos hacen referencia a cómo se suelen hacer las cosas y el gusto por el cual deseo realizar las cosas.
@@ -43,10 +43,11 @@
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8.my-3(data-aos="fade-right")
         .bloque-texto-c.color-secundario.p-4
-          i.fas.fa-quote-right
+          i.fas.fa-quote-left
           .py-3
             p.mb-2 Martha Alles (2009), considerada la mayor experta en todo lo relacionado con competencias laborales en Latinoamérica, dice que competencia son: “Características de personalidad devenidas en comportamientos que generan un desempeño exitoso en un puesto de trabajo”. Dentro del desarrollo del modelo de gestión por competencias propuesto por Martha Alles, se definen diferentes tipos de competencias, como son las competencias corporativas, las competencias específicas y las competencias actitudinales, las cuales se trabajarán más adelante.
-            span #[b Martha Alles (2009)]     
+          i.fas.fa-quote-right.pe-5.mleft              
+          span #[b Martha Alles (2009)]           
 
     .row.justify-content-center.align-items-center.my-5           
       .col-lg-10
@@ -100,7 +101,7 @@
             h4(data-aos="fade-left").mb-0.text-white.text-center Calidad
         .col-lg-7.col-md-8.my-3
           .bg36.p-4.h-100.brad(data-aos="fade-right")
-            p(data-aos="fade-rihgt").mb-0 Propender por una calidad integral con nuestros colaboradores, clientes, proveedores, con el fin de ser mas competitivos.
+            p(data-aos="fade-rihgt").mb-0 Propender por una calidad integral con nuestros colaboradores, clientes, proveedores, con el fin de ser más competitivos.
         .col-lg-3.col-md-4.my-3
           .bg37.p-4.h-100.brad.j(data-aos="fade-left")
             h4(data-aos="fade-left").mb-0.text-white.text-center Trabajo en Equipo
@@ -118,7 +119,7 @@
             h4(data-aos="fade-left").mb-0.text-white.text-center Resposabilidad Social
         .col-lg-7.col-md-8.my-3
           .bg38.p-4.h-100.brad(data-aos="fade-right")
-            p(data-aos="fade-rihgt").mb-0 La empresa esta comprometida con el uso racional de los recursos naturales, generando productos que mejoren la calidad de vida de nuestros colaboradores, clientes y el cuidado del medio ambiente.   
+            p(data-aos="fade-rihgt").mb-0 La empresa está comprometida con el uso racional de los recursos naturales, generando productos que mejoren la calidad de vida de nuestros colaboradores, clientes y el cuidado del medio ambiente.   
 
     p(data-aos="fade-down").mt-5 Las competencias corporativas u organizacionales se plantean teniendo en cuenta el sector económico, el tamaño de la empresa, el número de empleados y los valores corporativos, porque estos son los que van a permitir desarrollar la cultura organizacional.
 
@@ -159,10 +160,7 @@
 
     p(data-aos="fade-down").mb-5 A continuación, se definen algunas competencias de nivel gerencial, las cuales están estipuladas en el Diccionario de Competencias Laborales de Martha Alles. En esta obra, propone algunas competencias, pero se pueden adicionar diferentes a las planteadas. #[b Eso depende de lo construido por la alta gerencia de la empresa y el departamento de gestión humana:]
 
-    h4.t1(data-aos="fade-down") Competencias específicas
-
-    p(data-aos="fade-down").mb-5  En esta obra, propone algunas competencias, pero se pueden adicionar diferentes a las planteadas. Eso depende de lo construido por la alta gerencia de la empresa y el departamento de gestión humana:
-
+    h4.t1.mb-5(data-aos="fade-down") Competencias específicas
     .bg39.mb-5
       .row.justify-content-center.align-items-end.pt-3           
         .col-lg-3.my-3.d-none.d-lg-block

@@ -78,10 +78,12 @@
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8.my-3(data-aos="fade-right")
         .bloque-texto-c.color-secundario.p-4
-          i.fas.fa-quote-right
+          i.fas.fa-quote-left
           .py-3
             p.mb-2 Es un propósito que permite a la compañía ser creativa y asertiva, en vez de reactiva, en la formulación de su propósito a futuro. Su propósito es el de ayudar a la compañía a operar de manera efectiva dentro de situaciones complejas que puedan afectar permanentemente por restricciones o amenazas”. Con base en esto, se puede decir que la planeación no solo se centra en establecer estrategias, sino en preparar a la organización a asumir retos que ofrece el futuro cambiante.
-            span #[b Scott (2008, p.5)]                   
+          i.fas.fa-quote-right.pe-5.mleft
+          span #[b Scott (2008, p.5)]  
+
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/54.png', alt='') 
 
@@ -93,7 +95,8 @@
           i.fas.fa-quote-right
           .py-3
             p.mb-2 Define la planeación estratégica como “el proceso por el cual una empresa desarrolla los objetivos y las acciones concretas para llegar a alcanzar el estado deseado”. Y Serna (2008, p.55) se refiere al tema como “el proceso mediante el cual quienes toman decisiones en una organización obtienen, procesan y analizan información pertinente, interna y externa, con el fin de evaluar la situación presente de la empresa”. Lo anterior indica que el proceso de planeación estratégica es un proceso permanente, que evalúa la situación presente y futura, con el fin de anticiparse y tomar decisiones que la direccionen hacia un mejor estado.
-            span #[b Gallardo (2012, p.42)]                   
+          i.fas.fa-quote-right.pe-5.mleft            
+          span #[b Gallardo (2012, p.42)]                   
              
     .bg20
       h4.mb-5.pt-5(data-aos="fade-down") En este proceso es fundamental cuestionarse sobre:
@@ -191,7 +194,7 @@
                 p(data-aos="fade-down").mb-0 Posteriormente a esto, es necesario concebir cuáles serán los valores corporativos de la organización, que son los pilares filosóficos o compromisos éticos y morales que la organización tiene para los diferentes grupos de interés, como los clientes internos y externos.
             .col-lg-6.my-3        
               .bgw.p-4.h-100
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/60.png', alt='')
+                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/60.png', alt='Imagen que invita a responder una serie de cuestionamientos.')
           ul.lista-ul.mb-5.fa-ul
             li 
               i.lista-ul__vineta
@@ -322,7 +325,7 @@
                   p.mb-0 ¿En qué quiere convertirse?  
                 li 
                   i.lista-ul__vineta
-                  p.mb-0 ¿Qué características debe tener como empresa en el futuro?iénes son nuestros clientes?                                      
+                  p.mb-0 ¿Qué características debe tener como empresa en el futuro quienes son nuestros clientes?                                      
       .col-lg-7.col-md-6.my-3(data-aos="fade-right")
         .tarjeta.tarjeta-avatar.h-100
           img.img-w(src='@/assets/curso/temas/65.svg' alt='')
